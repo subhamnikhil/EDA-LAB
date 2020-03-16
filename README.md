@@ -1,2 +1,2 @@
 # EDA-LAB
-Hosting Django web 
+Python Django web Design
