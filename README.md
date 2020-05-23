@@ -1,8 +1,8 @@
 # EDA-LAB
-Python Word To Speech Conversion
+# Python Word To Speech Conversion
 
-pip install gTTS
-pip install docx2txt
+# pip install gTTS
+# pip install docx2txt
 
 # to play, put this file in the current dir.
 
