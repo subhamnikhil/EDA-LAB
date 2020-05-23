@@ -2,6 +2,7 @@
 Python Word To Speech convertor
 
 pip install gTTS
+
 pip install docx2txt
 
 to play, put this file in the current dir.
